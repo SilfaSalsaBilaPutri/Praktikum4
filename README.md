@@ -41,7 +41,7 @@ Implementasikan java code diagram class berikut:
     ```
     Rumus untuk luas lingkaran adalah π × r². Dalam Java, kita menggunakan Math.PI untuk nilai π. Rumus untuk keliling lingkaran adalah 2 × π × r. Kita gunakan Math.PI untuk nilai π.
 
-  - Class Segitiga
+- Class Segitiga
     ```
     class Segitiga extends BangunDatar {
     int alas;  // base
